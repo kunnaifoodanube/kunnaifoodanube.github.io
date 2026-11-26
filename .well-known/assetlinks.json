@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.kunnaifoodanube.camerabuddy",
+      "sha256_cert_fingerprints": [
+        "CD:63:CC:48:84:EA:3F:10:01:D3:81:14:76:FF:26:5A:C9:ED:74:EE:89:A3:C1:20:AB:1D:8E:A2:FB:22:A4:A6"
+      ]
+    }
+  }
+]
